@@ -1,0 +1,12 @@
+version: "0.0"
+services:
+    backend:
+        build: backend
+        container_name: backend
+        ports:
+          - 5001:5001
+    frontend:
+        build: frontend
+        container_name: frontend
+        ports:
+         - 8080:8080

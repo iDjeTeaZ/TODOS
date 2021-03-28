@@ -1,0 +1,72 @@
+[
+    {
+        "id_list": 0,
+        "name": "Premiere liste",
+        "owner": "admin",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "Premier TODO",
+                "task": "On teste des choses",
+                "date": "2021-03-23 10:49:44.465149"
+            },
+            {
+                "id_todo": 1,
+                "name": "Deuxieme TODO",
+                "task": "On continue les tests",
+                "date": "2021-03-23 11:27:14.127738"
+            },
+            {
+                "id_todo": 3,
+                "name": "Dernier TODO",
+                "task": "Je sais plus quoi faire",
+                "date": "2021-03-24 08:37:47.591217"
+            }
+        ]
+    },
+    {
+        "id_list": 1,
+        "name": "Deuxieme liste",
+        "owner": "admin",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "ALED",
+                "task": "On teste plus, on espère",
+                "date": "2021-03-24 12:38:14.015032"
+            }
+        ]
+    },
+    {
+        "id_list": 4,
+        "name": "Derniere liste",
+        "owner": "admin",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "ALT+F4",
+                "task": "Oups",
+                "date": "2021-03-25 20:12:43.072899"
+            },
+            {
+                "id_todo": 1,
+                "name": "OPEN",
+                "task": "Oupsi",
+                "date": "2021-03-25 21:03:28.129279"
+            }
+        ]
+    },
+    {
+        "id_list": 6,
+        "name": "newList",
+        "owner": "newUser",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "newTodo",
+                "task": "truc",
+                "date": "2021-03-26 12:01:43.757961"
+            }
+        ]
+    }
+]
